@@ -1,0 +1,501 @@
+student_id,name,gender,age,year_of_study,department
+1,Sneha Gupta,Female,21,1,Electrical
+2,Amit Gupta,Male,18,3,Computer Science
+3,Aarav Kumar,Female,17,3,Chemistry
+4,Neha Nair,Female,21,4,Computer Science
+5,Akshay Singh,Male,22,2,Civil
+6,Akshay Trivedi,Female,23,1,Biotechnology
+7,Manish Iyer,Male,24,3,Mathematics
+8,Aditya Rao,Female,22,3,Mechanical
+9,Vivaan Nair,Male,18,4,Mechanical
+10,Kavya Iyer,Female,22,1,Biotechnology
+11,Ananya Iyer,Male,18,3,Electrical
+12,Karthik Nair,Female,23,2,Chemistry
+13,Saanvi Trivedi,Male,17,1,Computer Science
+14,Deepak Trivedi,Female,18,1,Psychology
+15,Meera Trivedi,Female,24,2,Physics
+16,Arjun Iyer,Female,21,3,Mathematics
+17,Meera Khan,Female,20,4,Electrical
+18,Rohan Choudhary,Female,17,4,Electrical
+19,Sneha Singh,Male,23,3,Mathematics
+20,Kavya Naidu,Other,21,4,Computer Science
+21,Pooja Gupta,Male,21,4,Biotechnology
+22,Vihaan Chopra,Female,24,1,Commerce
+23,Rohan Singh,Female,18,4,Commerce
+24,Nikhil Menon,Male,19,2,Electrical
+25,Karthik Menon,Male,22,2,Mechanical
+26,Ishita Joshi,Male,21,1,Civil
+27,Meera Khan,Male,18,3,Mechanical
+28,Akshay Rao,Male,19,3,Chemistry
+29,Sai Iyer,Male,23,4,Chemistry
+30,Akshay Reddy,Male,23,4,Biotechnology
+31,Anjali Menon,Female,20,1,Biotechnology
+32,Aarav Khan,Male,20,1,Computer Science
+33,Saanvi Kumar,Male,22,1,Civil
+34,Aditi Choudhary,Female,19,3,Psychology
+35,Siddharth Choudhary,Female,24,4,Civil
+36,Vihaan Gupta,Male,22,2,Physics
+37,Tanvi Verma,Male,18,1,Biotechnology
+38,Deepak Gupta,Female,20,3,Electrical
+39,Neha Singh,Female,20,4,Mechanical
+40,Anjali Rao,Female,17,4,Civil
+41,Sai Bajpai,Female,20,4,Computer Science
+42,Sai Kapoor,Female,23,2,Physics
+43,Isha Bajpai,Male,24,1,Commerce
+44,Ananya Verma,Male,17,3,Computer Science
+45,Vivaan Khan,Female,19,1,Chemistry
+46,Aditya Singh,Female,18,3,Civil
+47,Kavya Gupta,Male,20,3,Computer Science
+48,Manish Kumar,Female,22,4,Civil
+49,Pooja Trivedi,Female,23,1,Commerce
+50,Anjali Trivedi,Male,18,1,Psychology
+51,Siddharth Gupta,Female,20,3,Electrical
+52,Ishita Joshi,Male,20,2,Electrical
+53,Anjali Rao,Male,17,3,Chemistry
+54,Isha Gupta,Male,19,2,Mechanical
+55,Amit Rao,Female,21,3,Biotechnology
+56,Ananya Iyer,Female,21,4,Computer Science
+57,Aditya Bajpai,Male,17,1,Electrical
+58,Sneha Iyer,Female,24,3,Mathematics
+59,Karthik Sharma,Female,19,3,Biotechnology
+60,Siddharth Rao,Female,19,1,Biotechnology
+61,Meera Verma,Male,20,3,Mechanical
+62,Priya Rao,Male,23,4,Electrical
+63,Ishita Nair,Male,19,4,Computer Science
+64,Sai Trivedi,Male,23,4,Civil
+65,Aditi Singh,Male,18,2,Computer Science
+66,Tanvi Choudhary,Female,24,2,Civil
+67,Saanvi Sharma,Male,23,2,Mechanical
+68,Akshay Iyer,Female,23,3,Chemistry
+69,Riya Sharma,Female,21,1,Commerce
+70,Vivaan Gupta,Male,22,3,Biotechnology
+71,Neha Naidu,Other,18,2,Psychology
+72,Ananya Iyer,Female,23,1,Chemistry
+73,Pooja Reddy,Female,18,4,Biotechnology
+74,Manish Trivedi,Male,18,3,Commerce
+75,Rohan Chopra,Male,22,2,Commerce
+76,Karthik Patel,Female,23,3,Electrical
+77,Manish Khan,Female,17,2,Civil
+78,Neha Khan,Male,22,2,Physics
+79,Pooja Reddy,Female,19,3,Commerce
+80,Rohan Naidu,Female,20,3,Civil
+81,Deepak Reddy,Female,17,1,Physics
+82,Manish Kumar,Female,20,3,Mathematics
+83,Rahul Kapoor,Female,17,4,Mechanical
+84,Akshay Bajpai,Female,24,1,Civil
+85,Ishita Gupta,Female,24,3,Chemistry
+86,Manish Trivedi,Male,24,3,Chemistry
+87,Neha Rao,Female,19,3,Physics
+88,Anjali Iyer,Male,21,4,Chemistry
+89,Rahul Nair,Female,18,3,Civil
+90,Aditi Trivedi,Female,18,1,Civil
+91,Kavya Patel,Male,18,2,Biotechnology
+92,Karthik Mehta,Female,20,4,Mathematics
+93,Meera Khan,Male,17,4,Psychology
+94,Kavya Choudhary,Female,22,2,Mathematics
+95,Tanvi Bajpai,Male,20,2,Commerce
+96,Neha Choudhary,Female,22,3,Mathematics
+97,Amit Singh,Male,19,4,Chemistry
+98,Aarav Kapoor,Male,17,1,Mathematics
+99,Arjun Mehta,Female,21,2,Civil
+100,Anjali Trivedi,Female,23,2,Mathematics
+101,Aditi Kumar,Female,17,4,Biotechnology
+102,Saanvi Kumar,Male,17,4,Civil
+103,Ananya Sharma,Male,20,1,Mechanical
+104,Siddharth Reddy,Female,21,4,Electrical
+105,Manish Naidu,Male,18,4,Electrical
+106,Isha Gupta,Male,21,3,Mathematics
+107,Kavya Reddy,Female,20,1,Commerce
+108,Tanvi Naidu,Male,17,2,Mathematics
+109,Pooja Joshi,Female,22,1,Mathematics
+110,Nikhil Choudhary,Female,22,3,Physics
+111,Shreya Patel,Female,21,3,Chemistry
+112,Akshay Choudhary,Female,21,2,Civil
+113,Nikhil Kumar,Female,24,1,Physics
+114,Siddharth Naidu,Male,22,1,Biotechnology
+115,Sai Choudhary,Female,21,2,Psychology
+116,Shreya Iyer,Male,20,1,Mathematics
+117,Rahul Rao,Male,24,3,Physics
+118,Anjali Sharma,Female,20,2,Civil
+119,Isha Khan,Female,22,2,Chemistry
+120,Riya Joshi,Male,21,2,Civil
+121,Vihaan Reddy,Female,19,1,Physics
+122,Aditi Khan,Male,21,4,Civil
+123,Isha Nair,Female,21,1,Chemistry
+124,Arjun Iyer,Female,17,3,Electrical
+125,Sneha Choudhary,Female,17,3,Physics
+126,Rahul Mehta,Female,17,2,Physics
+127,Vihaan Kumar,Female,18,3,Computer Science
+128,Arjun Patel,Male,21,1,Civil
+129,Vihaan Rao,Male,20,4,Mathematics
+130,Anjali Mehta,Female,23,2,Psychology
+131,Vivaan Naidu,Male,18,4,Civil
+132,Sneha Reddy,Female,18,1,Electrical
+133,Karthik Kumar,Female,23,2,Psychology
+134,Rahul Chopra,Female,21,3,Physics
+135,Aditya Nair,Male,20,2,Chemistry
+136,Saanvi Patel,Male,19,1,Electrical
+137,Deepak Chopra,Male,21,2,Physics
+138,Shreya Chopra,Male,21,3,Physics
+139,Anjali Kumar,Male,23,3,Psychology
+140,Aditi Sharma,Female,17,4,Commerce
+141,Siddharth Verma,Male,19,2,Physics
+142,Ishita Iyer,Female,23,3,Physics
+143,Aditya Choudhary,Female,22,2,Mechanical
+144,Tanvi Singh,Female,24,2,Mathematics
+145,Nikhil Rao,Female,18,2,Biotechnology
+146,Vihaan Kapoor,Male,17,3,Chemistry
+147,Anjali Bajpai,Female,22,3,Physics
+148,Sneha Mehta,Male,20,2,Electrical
+149,Ishita Chopra,Female,24,1,Psychology
+150,Deepak Nair,Male,21,3,Chemistry
+151,Neha Kumar,Female,18,2,Mechanical
+152,Sneha Patel,Female,21,3,Commerce
+153,Neha Choudhary,Other,20,2,Electrical
+154,Kavya Reddy,Male,19,4,Commerce
+155,Akshay Bajpai,Female,21,4,Commerce
+156,Amit Chopra,Male,24,4,Physics
+157,Karthik Choudhary,Female,23,2,Biotechnology
+158,Tanvi Reddy,Other,20,3,Civil
+159,Tanvi Bajpai,Female,24,3,Mathematics
+160,Kavya Patel,Female,17,1,Psychology
+161,Riya Gupta,Male,24,1,Physics
+162,Aarav Patel,Female,19,1,Commerce
+163,Riya Naidu,Male,18,4,Chemistry
+164,Kavya Trivedi,Male,24,4,Computer Science
+165,Manish Kumar,Female,21,4,Mechanical
+166,Neha Gupta,Male,18,2,Commerce
+167,Meera Sharma,Female,17,2,Biotechnology
+168,Neha Patel,Female,23,3,Electrical
+169,Sai Singh,Female,23,3,Civil
+170,Rahul Khan,Female,24,3,Physics
+171,Aditi Sharma,Male,24,4,Chemistry
+172,Sai Kumar,Female,22,4,Commerce
+173,Sneha Bajpai,Male,24,4,Civil
+174,Kavya Choudhary,Female,23,3,Psychology
+175,Isha Chopra,Female,23,2,Psychology
+176,Tanvi Verma,Male,24,4,Commerce
+177,Akshay Nair,Male,22,1,Civil
+178,Manish Iyer,Male,19,3,Computer Science
+179,Isha Mehta,Female,22,3,Mechanical
+180,Ishita Chopra,Female,23,1,Electrical
+181,Deepak Rao,Male,22,3,Commerce
+182,Nikhil Singh,Female,24,4,Commerce
+183,Amit Trivedi,Male,24,4,Electrical
+184,Akshay Nair,Male,23,4,Chemistry
+185,Priya Kumar,Male,17,2,Mechanical
+186,Anjali Joshi,Male,21,3,Biotechnology
+187,Vihaan Nair,Female,22,4,Civil
+188,Sneha Kumar,Male,24,4,Commerce
+189,Sneha Bajpai,Female,17,4,Commerce
+190,Rahul Gupta,Female,19,2,Biotechnology
+191,Pooja Rao,Female,19,4,Mechanical
+192,Nikhil Choudhary,Male,21,1,Biotechnology
+193,Ananya Mehta,Female,20,4,Mechanical
+194,Pooja Joshi,Male,22,1,Commerce
+195,Ananya Gupta,Male,24,1,Civil
+196,Sneha Naidu,Male,17,4,Civil
+197,Arjun Khan,Female,20,3,Civil
+198,Riya Patel,Male,17,2,Electrical
+199,Arjun Rao,Female,19,1,Computer Science
+200,Arjun Sharma,Female,20,3,Computer Science
+201,Sai Iyer,Female,23,3,Mechanical
+202,Rahul Mehta,Male,18,2,Civil
+203,Manish Verma,Male,21,2,Computer Science
+204,Vivaan Choudhary,Male,23,3,Physics
+205,Shreya Mehta,Female,18,2,Electrical
+206,Aditya Patel,Female,22,2,Psychology
+207,Rohan Chopra,Female,23,1,Mechanical
+208,Tanvi Rao,Male,20,2,Civil
+209,Neha Trivedi,Male,23,2,Mechanical
+210,Riya Bajpai,Female,21,2,Electrical
+211,Pooja Choudhary,Female,18,1,Mechanical
+212,Amit Joshi,Male,17,3,Chemistry
+213,Karthik Trivedi,Male,23,2,Mathematics
+214,Tanvi Verma,Male,21,2,Psychology
+215,Rohan Reddy,Female,24,1,Mechanical
+216,Priya Rao,Female,21,3,Mathematics
+217,Tanvi Rao,Male,17,3,Commerce
+218,Aarav Singh,Female,21,4,Biotechnology
+219,Aarav Singh,Male,23,1,Computer Science
+220,Aditya Menon,Female,23,2,Electrical
+221,Priya Chopra,Male,18,4,Electrical
+222,Sai Naidu,Female,18,2,Mathematics
+223,Rahul Naidu,Female,21,1,Chemistry
+224,Vihaan Joshi,Female,21,3,Psychology
+225,Rahul Menon,Male,17,1,Psychology
+226,Vivaan Sharma,Female,20,4,Commerce
+227,Isha Trivedi,Female,24,3,Electrical
+228,Arjun Kapoor,Male,20,3,Biotechnology
+229,Aditya Kapoor,Male,17,2,Physics
+230,Ishita Kumar,Male,23,3,Mathematics
+231,Isha Gupta,Female,22,1,Psychology
+232,Anjali Joshi,Female,18,1,Psychology
+233,Kavya Menon,Female,21,3,Civil
+234,Riya Singh,Female,18,3,Civil
+235,Meera Joshi,Female,19,1,Electrical
+236,Aditi Reddy,Female,19,4,Mechanical
+237,Sai Choudhary,Female,24,3,Psychology
+238,Sneha Naidu,Female,22,1,Mechanical
+239,Rahul Mehta,Male,21,3,Biotechnology
+240,Rohan Kumar,Female,24,1,Biotechnology
+241,Nikhil Chopra,Female,18,3,Chemistry
+242,Kavya Mehta,Male,17,2,Psychology
+243,Sneha Reddy,Female,24,3,Computer Science
+244,Anjali Gupta,Male,22,4,Mechanical
+245,Rohan Singh,Female,24,4,Chemistry
+246,Rohan Naidu,Female,22,4,Mathematics
+247,Neha Trivedi,Male,17,4,Biotechnology
+248,Aditya Trivedi,Female,23,2,Psychology
+249,Tanvi Patel,Female,19,4,Commerce
+250,Sneha Kapoor,Female,18,2,Mathematics
+251,Sneha Trivedi,Male,18,3,Mathematics
+252,Rohan Joshi,Female,21,1,Civil
+253,Riya Choudhary,Female,19,1,Commerce
+254,Tanvi Gupta,Female,17,3,Psychology
+255,Arjun Naidu,Female,19,1,Psychology
+256,Deepak Singh,Male,17,2,Civil
+257,Anjali Naidu,Female,24,1,Civil
+258,Isha Choudhary,Male,20,2,Psychology
+259,Anjali Mehta,Male,23,3,Mathematics
+260,Sai Reddy,Male,19,4,Computer Science
+261,Sneha Choudhary,Male,18,3,Chemistry
+262,Tanvi Gupta,Female,19,2,Chemistry
+263,Arjun Bajpai,Female,20,4,Biotechnology
+264,Ishita Sharma,Female,23,3,Civil
+265,Kavya Kumar,Female,17,2,Mechanical
+266,Nikhil Trivedi,Male,19,1,Physics
+267,Shreya Patel,Male,24,2,Computer Science
+268,Meera Kumar,Female,20,4,Chemistry
+269,Amit Naidu,Male,18,4,Civil
+270,Isha Gupta,Female,23,3,Psychology
+271,Anjali Kumar,Female,24,3,Computer Science
+272,Sneha Menon,Male,19,2,Computer Science
+273,Manish Joshi,Female,23,1,Mechanical
+274,Rohan Joshi,Female,17,2,Physics
+275,Vivaan Kapoor,Other,21,3,Biotechnology
+276,Deepak Kumar,Female,18,4,Biotechnology
+277,Arjun Verma,Female,22,4,Electrical
+278,Nikhil Mehta,Other,24,3,Electrical
+279,Aditya Mehta,Female,20,1,Civil
+280,Meera Verma,Female,21,3,Chemistry
+281,Rahul Iyer,Female,20,2,Computer Science
+282,Tanvi Trivedi,Female,22,2,Mathematics
+283,Amit Mehta,Male,23,2,Electrical
+284,Rahul Choudhary,Female,21,4,Mathematics
+285,Aditya Bajpai,Male,19,3,Biotechnology
+286,Vihaan Kumar,Female,21,2,Psychology
+287,Shreya Bajpai,Female,24,2,Computer Science
+288,Amit Joshi,Male,23,2,Computer Science
+289,Aditya Kapoor,Female,19,4,Electrical
+290,Tanvi Naidu,Male,24,1,Mechanical
+291,Saanvi Joshi,Female,17,3,Physics
+292,Priya Joshi,Female,18,3,Chemistry
+293,Priya Kapoor,Female,21,1,Mechanical
+294,Aarav Singh,Female,23,4,Mechanical
+295,Aditi Iyer,Male,20,4,Commerce
+296,Shreya Choudhary,Female,19,4,Physics
+297,Sai Mehta,Other,22,3,Mechanical
+298,Karthik Rao,Female,21,4,Electrical
+299,Deepak Joshi,Female,18,4,Electrical
+300,Saanvi Choudhary,Female,22,2,Chemistry
+301,Arjun Naidu,Male,18,2,Physics
+302,Rohan Bajpai,Male,18,1,Biotechnology
+303,Sneha Kumar,Female,22,1,Chemistry
+304,Sneha Khan,Female,19,2,Computer Science
+305,Nikhil Gupta,Female,21,1,Biotechnology
+306,Ishita Nair,Female,21,4,Commerce
+307,Ananya Rao,Female,21,3,Mechanical
+308,Rohan Singh,Male,19,1,Psychology
+309,Amit Naidu,Female,17,4,Computer Science
+310,Aditya Verma,Male,21,3,Psychology
+311,Neha Naidu,Male,24,4,Chemistry
+312,Isha Chopra,Female,23,2,Mechanical
+313,Shreya Verma,Female,23,2,Civil
+314,Riya Naidu,Female,22,3,Biotechnology
+315,Kavya Patel,Male,18,2,Physics
+316,Vihaan Iyer,Female,19,1,Commerce
+317,Kavya Naidu,Female,19,4,Psychology
+318,Amit Trivedi,Female,19,2,Chemistry
+319,Anjali Choudhary,Male,24,1,Mathematics
+320,Rohan Mehta,Male,20,3,Computer Science
+321,Vivaan Chopra,Female,24,2,Computer Science
+322,Tanvi Gupta,Female,21,3,Mathematics
+323,Priya Verma,Female,20,2,Commerce
+324,Aditya Kapoor,Female,21,4,Psychology
+325,Pooja Naidu,Female,18,2,Biotechnology
+326,Karthik Joshi,Male,20,3,Mathematics
+327,Rohan Verma,Female,19,3,Physics
+328,Rohan Mehta,Female,19,2,Psychology
+329,Riya Singh,Female,21,3,Chemistry
+330,Nikhil Menon,Male,21,2,Computer Science
+331,Priya Trivedi,Male,23,3,Computer Science
+332,Manish Choudhary,Female,20,3,Psychology
+333,Rahul Singh,Male,23,1,Civil
+334,Vivaan Khan,Male,18,1,Physics
+335,Riya Bajpai,Female,20,2,Psychology
+336,Ishita Choudhary,Male,17,3,Chemistry
+337,Ananya Rao,Female,24,3,Biotechnology
+338,Sai Mehta,Male,22,3,Commerce
+339,Manish Choudhary,Female,20,2,Commerce
+340,Saanvi Chopra,Male,20,3,Physics
+341,Riya Choudhary,Female,21,2,Psychology
+342,Pooja Rao,Female,23,4,Electrical
+343,Isha Verma,Female,18,2,Physics
+344,Sneha Iyer,Male,20,1,Chemistry
+345,Aditi Rao,Male,19,1,Psychology
+346,Saanvi Nair,Female,20,3,Computer Science
+347,Vihaan Bajpai,Female,24,1,Electrical
+348,Aarav Rao,Male,19,2,Physics
+349,Rahul Reddy,Male,21,2,Computer Science
+350,Ishita Kumar,Male,20,3,Computer Science
+351,Ishita Singh,Female,19,4,Computer Science
+352,Nikhil Kapoor,Male,19,4,Commerce
+353,Meera Verma,Female,18,4,Biotechnology
+354,Isha Mehta,Other,24,4,Electrical
+355,Tanvi Menon,Female,20,4,Biotechnology
+356,Sai Mehta,Male,19,1,Biotechnology
+357,Deepak Chopra,Male,20,1,Mathematics
+358,Nikhil Bajpai,Female,18,2,Mechanical
+359,Sai Patel,Female,20,1,Mathematics
+360,Saanvi Mehta,Male,22,2,Psychology
+361,Aarav Iyer,Male,20,1,Mechanical
+362,Anjali Chopra,Female,21,3,Commerce
+363,Priya Naidu,Female,19,2,Physics
+364,Amit Naidu,Female,24,4,Civil
+365,Akshay Nair,Male,18,3,Chemistry
+366,Shreya Joshi,Female,18,1,Chemistry
+367,Meera Menon,Female,19,1,Chemistry
+368,Anjali Gupta,Male,24,1,Chemistry
+369,Anjali Verma,Female,23,2,Computer Science
+370,Karthik Mehta,Male,21,3,Mathematics
+371,Aditi Sharma,Male,18,1,Biotechnology
+372,Shreya Kumar,Male,17,4,Mechanical
+373,Ishita Choudhary,Female,23,1,Electrical
+374,Akshay Bajpai,Female,23,2,Mathematics
+375,Kavya Kumar,Male,19,3,Biotechnology
+376,Vihaan Singh,Other,23,3,Civil
+377,Nikhil Sharma,Male,21,2,Chemistry
+378,Neha Rao,Female,20,1,Biotechnology
+379,Arjun Iyer,Female,18,1,Mathematics
+380,Manish Sharma,Female,18,1,Computer Science
+381,Anjali Naidu,Male,17,1,Computer Science
+382,Kavya Mehta,Female,20,4,Computer Science
+383,Arjun Menon,Other,20,4,Psychology
+384,Riya Khan,Male,22,1,Electrical
+385,Pooja Menon,Female,21,2,Chemistry
+386,Siddharth Singh,Male,23,3,Computer Science
+387,Priya Kapoor,Male,22,3,Mathematics
+388,Arjun Chopra,Female,24,1,Civil
+389,Isha Patel,Male,17,3,Mathematics
+390,Karthik Menon,Female,20,2,Biotechnology
+391,Sneha Kumar,Male,22,1,Civil
+392,Vivaan Iyer,Female,17,4,Civil
+393,Deepak Khan,Male,20,2,Biotechnology
+394,Isha Sharma,Female,20,4,Mechanical
+395,Amit Choudhary,Male,20,2,Civil
+396,Karthik Trivedi,Male,23,2,Biotechnology
+397,Isha Iyer,Female,24,2,Physics
+398,Akshay Trivedi,Male,22,2,Computer Science
+399,Siddharth Nair,Male,17,2,Psychology
+400,Siddharth Bajpai,Female,20,2,Mathematics
+401,Siddharth Nair,Female,22,2,Physics
+402,Amit Choudhary,Female,22,1,Chemistry
+403,Rahul Singh,Male,17,3,Mechanical
+404,Nikhil Verma,Male,23,1,Civil
+405,Aditya Patel,Female,24,2,Psychology
+406,Sneha Naidu,Male,24,1,Chemistry
+407,Karthik Bajpai,Female,21,3,Commerce
+408,Aarav Menon,Male,23,4,Electrical
+409,Vihaan Gupta,Male,20,1,Chemistry
+410,Aditi Joshi,Female,23,1,Mathematics
+411,Anjali Khan,Female,20,2,Mechanical
+412,Sneha Verma,Female,23,2,Physics
+413,Vivaan Sharma,Male,18,2,Mathematics
+414,Sneha Trivedi,Male,18,4,Computer Science
+415,Saanvi Reddy,Male,24,2,Mechanical
+416,Pooja Iyer,Male,17,1,Biotechnology
+417,Aarav Reddy,Male,23,4,Commerce
+418,Sai Khan,Female,23,3,Chemistry
+419,Riya Kapoor,Male,19,4,Mechanical
+420,Rohan Joshi,Female,23,1,Mechanical
+421,Riya Naidu,Male,23,4,Biotechnology
+422,Aarav Iyer,Male,24,2,Biotechnology
+423,Karthik Kapoor,Female,23,1,Psychology
+424,Isha Nair,Male,18,2,Mathematics
+425,Shreya Patel,Male,22,2,Mechanical
+426,Aarav Chopra,Female,21,1,Mechanical
+427,Sai Bajpai,Female,23,1,Mechanical
+428,Priya Rao,Female,22,4,Computer Science
+429,Isha Bajpai,Female,18,3,Chemistry
+430,Meera Nair,Male,19,3,Electrical
+431,Arjun Iyer,Female,24,1,Electrical
+432,Neha Iyer,Female,24,4,Biotechnology
+433,Aditi Nair,Male,24,3,Civil
+434,Anjali Gupta,Female,17,4,Biotechnology
+435,Nikhil Naidu,Female,22,2,Mathematics
+436,Nikhil Naidu,Female,22,3,Civil
+437,Rahul Trivedi,Female,23,4,Commerce
+438,Amit Choudhary,Male,20,2,Commerce
+439,Nikhil Kapoor,Female,20,3,Chemistry
+440,Sai Rao,Female,24,4,Civil
+441,Anjali Chopra,Male,18,4,Mathematics
+442,Pooja Choudhary,Female,21,1,Electrical
+443,Shreya Bajpai,Male,18,2,Psychology
+444,Rahul Khan,Female,23,3,Biotechnology
+445,Shreya Rao,Male,18,1,Civil
+446,Pooja Joshi,Female,17,3,Mathematics
+447,Akshay Trivedi,Male,23,1,Mechanical
+448,Aditi Nair,Female,20,2,Mathematics
+449,Anjali Khan,Male,19,2,Computer Science
+450,Rahul Gupta,Female,18,1,Electrical
+451,Priya Chopra,Female,20,3,Biotechnology
+452,Rahul Gupta,Female,24,2,Commerce
+453,Vivaan Gupta,Female,22,3,Electrical
+454,Ishita Nair,Female,19,2,Mathematics
+455,Anjali Nair,Male,19,1,Mathematics
+456,Kavya Sharma,Male,20,2,Mathematics
+457,Kavya Sharma,Male,20,2,Mechanical
+458,Siddharth Gupta,Male,19,2,Civil
+459,Anjali Gupta,Female,24,3,Biotechnology
+460,Manish Kapoor,Male,18,2,Physics
+461,Manish Singh,Male,21,4,Psychology
+462,Aditya Patel,Female,20,2,Electrical
+463,Priya Patel,Female,23,3,Psychology
+464,Kavya Bajpai,Female,19,3,Physics
+465,Isha Patel,Female,24,3,Biotechnology
+466,Aarav Choudhary,Female,23,4,Chemistry
+467,Sneha Choudhary,Female,24,2,Physics
+468,Rahul Singh,Female,17,4,Civil
+469,Isha Verma,Female,21,1,Physics
+470,Siddharth Choudhary,Male,18,3,Commerce
+471,Akshay Rao,Male,22,3,Computer Science
+472,Akshay Mehta,Male,23,1,Civil
+473,Isha Verma,Female,22,4,Mechanical
+474,Anjali Gupta,Male,20,1,Psychology
+475,Shreya Joshi,Male,23,1,Electrical
+476,Deepak Reddy,Male,17,3,Chemistry
+477,Aditi Naidu,Male,22,4,Commerce
+478,Isha Khan,Female,18,1,Mathematics
+479,Ishita Verma,Other,19,3,Electrical
+480,Saanvi Patel,Male,20,4,Mathematics
+481,Rahul Patel,Male,21,3,Mathematics
+482,Anjali Kumar,Male,18,2,Commerce
+483,Shreya Joshi,Female,24,2,Computer Science
+484,Tanvi Kumar,Male,24,3,Biotechnology
+485,Tanvi Kumar,Male,23,1,Mathematics
+486,Nikhil Reddy,Female,22,4,Biotechnology
+487,Karthik Khan,Female,24,4,Computer Science
+488,Vivaan Gupta,Male,24,1,Electrical
+489,Anjali Mehta,Female,23,1,Electrical
+490,Meera Chopra,Female,21,1,Biotechnology
+491,Aditi Kumar,Female,19,1,Commerce
+492,Amit Nair,Female,18,3,Computer Science
+493,Ananya Choudhary,Female,20,3,Physics
+494,Aarav Sharma,Male,18,4,Mathematics
+495,Shreya Patel,Female,20,2,Mechanical
+496,Vihaan Trivedi,Female,21,1,Electrical
+497,Sneha Patel,Female,17,3,Electrical
+498,Anjali Joshi,Male,19,4,Psychology
+499,Pooja Mehta,Male,18,4,Electrical
+500,Akshay Gupta,Male,23,2,Mathematics

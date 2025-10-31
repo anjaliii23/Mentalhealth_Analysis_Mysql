@@ -158,5 +158,5 @@ It showcases **data analytics, database design, and critical thinking** skills s
 ## 📬 Author
 
 **Anjali Pandey**
-📧 anjalipandey.23-4@gmail.com
+📧 anjalipandey.2304@gmail.com
 💻 MCA Student | Aspiring Data Analyst | Passionate about using data for social impact
